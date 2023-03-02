@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+body {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+header {
+    height: 200px;
+    text-align: center;
+    
+}
+
+h1 {
+    
+    color: rgb(209, 66, 66);
+    padding: 30px;
+}
+
+h3 {
+    color: rgb(173, 172, 172);
+}
