@@ -15,12 +15,36 @@ header {
     
 }
 
+img {
+    height: 120px;
+    float: left;
+}
+
 h1 {
-    
     color: rgb(209, 66, 66);
     padding: 30px;
 }
 
-h3 {
-    color: rgb(173, 172, 172);
+#sottotitolo {
+    color: rgb(37, 32, 32);
 }
+
+.box {
+    height: 120px;
+    width: 500px;
+    background-color: black;   
+}
+
+h2 {
+    
+    color: white;
+}
+
+.title-work {
+    color: white;
+}
+
+.email {
+    color: rgb(38, 179, 226);
+}
+
