@@ -5,8 +5,12 @@
 }
 
 body {
-    max-width: 1500px;
+    max-width: 1600px;
     margin: 0 auto;
+}
+
+main {
+    height: 700px;
 }
 
 header {
@@ -16,7 +20,7 @@ header {
 }
 
 img {
-    height: 120px;
+    height: 150px;
     float: left;
 }
 
@@ -30,9 +34,12 @@ h1 {
 }
 
 .box {
-    height: 120px;
+    height: 150px;
     width: 500px;
-    background-color: black;   
+    background-color: black;
+    float: left;  
+    margin: 10px;
+    
 }
 
 h2 {
@@ -48,3 +55,6 @@ h2 {
     color: rgb(38, 179, 226);
 }
 
+#uno {
+    
+}
